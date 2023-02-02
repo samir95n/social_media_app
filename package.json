@@ -1,0 +1,24 @@
+{
+  "name": "social_media_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samir95n/social_media_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samir95n/social_media_app/issues"
+  },
+  "homepage": "https://github.com/samir95n/social_media_app#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0",
+    "mongoose": "^6.9.0"
+  }
+}
